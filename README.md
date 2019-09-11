@@ -10,3 +10,6 @@ Note:
 Add date_time_local, save the data into xlsx
 
 Next plan, the data will save to MySQL database
+
+
+UPDATE, stava_mysql (need python-mysql, panda)
